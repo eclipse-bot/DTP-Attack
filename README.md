@@ -1,6 +1,8 @@
-# SA-Attack
-2025 IEEE Intelligent Vehicles Symposium(IV) SA-Attack: Speed-adaptive stealthy adversarial attack on trajectory prediction
-
+# DTP-Attack
+A decision-based trajectory prediction black-box adversarial attack
+![DTP-Attack](/image/method_DTPAttack)
+# Comparison of the principles of different attack methods
+![Comparison](/image/method_compare)
 ## Requirements
 
 * Python 3.8+
@@ -18,5 +20,5 @@ The models should be placed in `/data/${model_name}_${dataset_name}/model/${atta
 
 ## Run normal prediction as well as the SA-Attack
 ```
-python SA-Attack.py --help
+python DTP-Attack.py --help
 ```

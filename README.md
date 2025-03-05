@@ -5,7 +5,7 @@ A decision-based trajectory prediction black-box adversarial attack.
 
 Comparison of the principles of different attack methods.
 
-<img src="/image/method_compare.png" width="600" height="300">
+<img src="/image/method_compare.png" width="400" height="200">
 
 ## Requirements
 

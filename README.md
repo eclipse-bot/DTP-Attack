@@ -22,3 +22,5 @@ The models should be placed in `/data/${model_name}_${dataset_name}/model/${atta
 ```
 python DTP-Attack.py --help
 ```
+# Results of different number of queries
+![Query](/image/different_query.png)

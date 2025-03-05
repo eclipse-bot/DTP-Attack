@@ -3,7 +3,7 @@ A decision-based trajectory prediction black-box adversarial attack.
 
 <img src="/image/method_DTPAttack.png" width="600" height="300">
 # Comparison of the principles of different attack methods
-![Comparison](/image/method_compare.png)
+<img src="/image/method_compare.png" width="600" height="300">
 ## Requirements
 
 * Python 3.8+

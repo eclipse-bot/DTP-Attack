@@ -1,5 +1,5 @@
 # DTP-Attack
-A decision-based trajectory prediction black-box adversarial attack
+A decision-based trajectory prediction black-box adversarial attack.
 ![DTP-Attack](/image/method_DTPAttack.png)
 # Comparison of the principles of different attack methods
 ![Comparison](/image/method_compare.png)
